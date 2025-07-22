@@ -359,11 +359,11 @@ kubectl get pods -A
 
 ```
 
-<img width="1026" height="927" alt="Image" src="https://github.com/user-attachments/assets/4b287c50-e05d-4aaa-bb68-30846f7211ee" />
+<img width="895" height="849" alt="Image" src="https://github.com/user-attachments/assets/6e459696-fa01-4cc4-bbe1-8f5e397c5e21" />
 
 ### Verify Container Status on Worker Node
 
-<img width="1020" height="856" alt="Image" src="https://github.com/user-attachments/assets/12138359-0ca7-4daf-a218-402f9544afe0" />
+<img width="909" height="798" alt="Image" src="https://github.com/user-attachments/assets/44e72032-0282-42b4-aad5-80213f262850" />
 
 ---
 
