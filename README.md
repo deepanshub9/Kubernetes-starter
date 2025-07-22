@@ -352,6 +352,21 @@ kubeadm token create --print-join-command
 
 ---
 
+## Verify Cluster Connection
+
+```bash
+kubectl get pods -A
+
+```
+
+<img width="1026" height="927" alt="Image" src="https://github.com/user-attachments/assets/4b287c50-e05d-4aaa-bb68-30846f7211ee" />
+
+### Verify Container Status on Worker Node
+
+<img width="1020" height="856" alt="Image" src="https://github.com/user-attachments/assets/12138359-0ca7-4daf-a218-402f9544afe0" />
+
+---
+
 ## 🛠️ Troubleshooting
 
 ### Common Issues and Solutions
@@ -441,14 +456,6 @@ sudo kubeadm reset
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [K9s - Terminal UI for Kubernetes](https://k9scli.io/)
 - [Helm - Package Manager](https://helm.sh/)
-
-### Next Steps
-
-1. 🔐 **Security**: Set up RBAC and Network Policies
-2. 📊 **Monitoring**: Install Prometheus and Grafana
-3. 📦 **Package Management**: Install Helm
-4. 🔄 **CI/CD**: Set up deployment pipelines
-5. 💾 **Storage**: Configure persistent volumes
 
 ---
 
